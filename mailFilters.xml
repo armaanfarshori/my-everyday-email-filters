@@ -30,17 +30,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001708423411578*7614580208064984912</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='noreply@newsletters.unocoin.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001708423476887*2989811437734348115</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -1386,17 +1375,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001708435909162*6943648403708832919</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='hasTheWord' value='list:(&lt;526001231.xt.local&gt;)'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001708435977412*7455511576135731892</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -1446,17 +1424,6 @@
 		<content></content>
 		<apps:property name='from' value='Notification@jio.com'/>
 		<apps:property name='label' value='TeleCom/Jio/Notification'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001708436550490*6276520052219760134</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='hasTheWord' value='http://digitalmentorworld.in/'/>
-		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -2035,28 +2002,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001708495597659*0344295253866038692</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='news@binomo.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001708495675930*6637295086426726762</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='friendupdates@facebookmail.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001708495700272*6372183487464481599</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -2183,50 +2128,6 @@
 		<content></content>
 		<apps:property name='hasTheWord' value='transunioin.com'/>
 		<apps:property name='label' value='CIBIL'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001709280634186*0019656899443146142</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='festivalfiles@dubaifestivalcitymall.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001709280659889*5895958112650539850</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='movienews@members.voxcinemas.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001709280763441*5822154309519798944</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='admin@algofox.co.in'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001709292576819*6488139787584431351</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='bookpdf.co.in'/>
-		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -2467,28 +2368,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710170424003*3318490159175026648</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='mail@timesjobs.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710170457070*6480284296958546545</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='jobalert@timesjobs.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001710937997609*0994246777000170404</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -2676,28 +2555,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710940710896*6826574231780054900</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='info@marketing.industrybuying.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710940777148*5554402724186575049</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='marketing@engage.canva.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001710941237817*8768006018545196230</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -2763,32 +2620,10 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710942008502*0533969664189796978</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='marketing@indiamart.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001710942030661*2964635042191467652</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
 		<apps:property name='from' value='notifications@mail.xmind.app'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710942097292*4673899881660569615</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='notification@updates.robomart.com'/>
-		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -2832,17 +2667,6 @@
 		<content></content>
 		<apps:property name='from' value='notifications@delicatedrape.odoo.com'/>
 		<apps:property name='label' value='Odoo'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710942317852*1631025476650469287</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='alerts@ifttt.com'/>
-		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -2898,17 +2722,6 @@
 		<content></content>
 		<apps:property name='from' value='aadhaar@uidai.gov.in'/>
 		<apps:property name='label' value='Government/Aadhaar'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710942762271*6047214723671110572</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='noreply@noip.com'/>
-		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -3036,28 +2849,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710943301571*7301854896466628735</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='no-reply@ubuylive.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710943380407*3094599285804660460</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='IOTSMS@ahu.edu.jo'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001710943406963*0059095729411007428</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -3135,17 +2926,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710943598639*5146080819554884612</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='noreply@thomascook.in'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001710943729044*4713777034611440380</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -3179,28 +2959,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710943845344*2553078770126246792</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='jobs@my.theladders.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710943889475*6765384198217849773</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='cfp-summer@2024conf-iiis.org'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001710943912935*6470621266137158219</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -3217,17 +2975,6 @@
 		<content></content>
 		<apps:property name='from' value='job@monsterindia.com'/>
 		<apps:property name='label' value='Foundit'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710943976632*3748967376364376709</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='support@glitch.com'/>
-		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -3300,17 +3047,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710944250840*0184722699341381449</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='learn@eccouncil.org'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001710944277493*9080712886458576542</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -3333,33 +3069,11 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710944355965*1725549401830630559</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='newsletter@offers.dominos.co.in'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001710944606977*4100560521879356732</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
 		<apps:property name='from' value='service@thehackerish.com'/>
 		<apps:property name='label' value='Hackerish'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710944620705*6744454374080230954</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='hasTheWord' value='list:(&lt;c80f4fc44238ae05841f3488ab92d95c87696706.google.com&gt;)'/>
-		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -3382,39 +3096,6 @@
 		<content></content>
 		<apps:property name='from' value='no-reply-info@paytmbank.com'/>
 		<apps:property name='label' value='Paytm/Paytm Payments Bank'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710944721922*1095891386855730365</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='admin@e.stockmarkethour.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710944750012*6723120721696500726</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='updates-india@allevents.in'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001710944804509*6963800732157228526</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='mailer@nc.bajajallianz.co.in'/>
-		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -3465,17 +3146,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001711690071794*4487641328107298512</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='more@commudle.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001711690089223*1452525207529421551</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -3492,17 +3162,6 @@
 		<content></content>
 		<apps:property name='from' value='update@airtel.com'/>
 		<apps:property name='label' value='TeleCom/Airtel'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001711694520585*8023985145444338653</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='deals@in.musafir.com'/>
-		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -3542,28 +3201,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001711694602081*8108606448738001551</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='greetings@travel.e-redbus.in'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001711694618121*8695079514242678789</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='reminders@123greetings.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001711694633918*3307556256392118715</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -3591,39 +3228,6 @@
 		<content></content>
 		<apps:property name='from' value='notifications@discord.com'/>
 		<apps:property name='label' value='Discord'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001711694687242*0305579386337000245</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='alert@info.bigbasket.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001711694771315*4372622260793041413</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='hasTheWord' value='list:(ubuntu-quality.lists.ubuntu.com)'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001711694790556*3166023985965752154</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='info@redlearning.org'/>
-		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -3795,17 +3399,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001711695384897*8820884651935248977</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='info@mysignature.io'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001711953781531*3799500959780122256</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -3883,28 +3476,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001713158922442*6654940456137225771</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='happiness@moments.fnp.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001713158937384*8073773002212639741</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='alibaba@service.alibaba.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001713158954806*0311885144537714520</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -3927,17 +3498,6 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001713159396292*8180838061719161229</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='noreply@dreamernarrow.net'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001713159928434*5197414434379997388</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
@@ -3949,55 +3509,11 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001713160391966*1999796806630132892</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='events@10times.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001713160413038*4093394553663219350</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='list:(&lt;9f3fdb19021a2ca248728959b0ccb4a3f0f65881.google.com&gt;)'/>
 		<apps:property name='label' value='Google'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001713160424493*6839461885070381570</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='hello@udacity.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001713160439674*1188033341783533328</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='teamshiprocket@updates.shiprocket.in'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001713160460281*2673472416535684782</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='updates@allevents.in'/>
-		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -4202,44 +3718,11 @@
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001715586991292*6459743397522240940</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='bill@e.bullandbearstockmarket.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001715587035141*7986501805390326750</id>
 		<updated>2024-06-14T16:40:19Z</updated>
 		<content></content>
 		<apps:property name='from' value='marketing@promo.noon.com'/>
 		<apps:property name='label' value='Noon.com'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001715587051812*5077101284781533770</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='global-seller@email.alibaba.com'/>
-		<apps:property name='shouldTrash' value='true'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001716964383430*4891352390398291453</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='no-reply@email.zebpay.com'/>
-		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
@@ -4273,17 +3756,6 @@
 		<content></content>
 		<apps:property name='from' value='no-reply@flyai.airindia.com'/>
 		<apps:property name='label' value='Air India'/>
-		<apps:property name='sizeOperator' value='s_sl'/>
-		<apps:property name='sizeUnit' value='s_smb'/>
-	</entry>
-	<entry>
-		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:z0000001718191627291*2468928825927795715</id>
-		<updated>2024-06-14T16:40:19Z</updated>
-		<content></content>
-		<apps:property name='from' value='info@up.nurserylive.com'/>
-		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
